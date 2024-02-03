@@ -1,4 +1,4 @@
-# conway-game-of-life
+# conway's game of life
 press space to pause and run
 
 click around to add cells
