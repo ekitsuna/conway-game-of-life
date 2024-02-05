@@ -17,3 +17,7 @@ click around to add cells
 
 ![image](https://github.com/ekitsuna/conway-game-of-life/assets/129570105/049f7203-5402-4266-8b58-5c745c94e896)
 ![image](https://github.com/ekitsuna/conway-game-of-life/assets/129570105/0b35df12-cb2d-4820-85fc-3f216ddc23da)
+
+
+**infinite loop**
+![image](https://github.com/ekitsuna/conway-game-of-life/assets/129570105/8a2de76e-d1ca-4680-a42b-c6e20618bf1f)
